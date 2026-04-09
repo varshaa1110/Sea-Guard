@@ -193,3 +193,10 @@ Each suspicious ship is flagged with a reason.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## Demo Video
+
+Watch the full working demo here:
+
+[Click to Watch Demo](https://drive.google.com/file/d/1ja3xvdNrvBNMrZrPcbpEATI-EwX_ixW0/view?usp=sharing)
